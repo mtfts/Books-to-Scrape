@@ -38,14 +38,6 @@ for i in range(1,51):
 df = pd.DataFrame(books,columns=['Title', 'Price', 'Star Rating'])
 
 
-# In[29]:
-
-
-df.head(50)
-
-
-# In[ ]:
-
 
 
 
