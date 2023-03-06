@@ -1,4 +1,4 @@
-# Web Scraping Books with Beautiful Soup
+# Web Scraping with Beautiful Soup
 
 ### Project Overview
 In this project, we will be scraping a table from a website using Python and the pandas library. 
